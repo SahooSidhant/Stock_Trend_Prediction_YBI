@@ -48,6 +48,3 @@ Actual vs Predicted Price Comparisons
 Root Mean Squared Error (RMSE) is calculated to evaluate model accuracy.
 
 Visual comparison of actual vs predicted stock price trends is shown.
-
-📌 Note
-This project is intended for educational purposes and should not be used as a financial advisory tool.
